@@ -4,9 +4,10 @@ Este projeto usa algoritmos de Machine Learning para prever a presença de doen�
 
 ## Modelos usados
 
+- Random Forest Classifier
 - KNN
 - SVM
-- Regressão Logística
+- Logistic Regressor
 - XGBoost
 
 ## Como rodar
