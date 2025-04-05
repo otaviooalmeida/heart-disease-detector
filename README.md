@@ -12,6 +12,8 @@ Este projeto usa algoritmos de Machine Learning para prever a presença de doen�
 
 ## Como rodar
 
+⚠️ Requisitos: instale o Jupyter Notebook (via `pip install notebook`) antes de rodar o notebook.
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook
