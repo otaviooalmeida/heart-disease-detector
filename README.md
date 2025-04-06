@@ -12,7 +12,7 @@ O dataset utilizado é o [Heart Disease Dataset](https://www.kaggle.com/datasets
 
 ## 🎯 Objetivo
 
-Criar modelos robustos que possam prever se um paciente tem ou não uma doença cardíaca com alta acurácia e baixa taxa de overfitting.
+Criar modelos que possam prever se um paciente tem ou não uma doença cardíaca com alta acurácia.
 
 ---
 
