@@ -1,4 +1,4 @@
-# 💓 Heart Disease Classification with Machine Learning
+# 💓 Heart Disease Classification
 
 Este projeto utiliza algoritmos de Machine Learning para prever a presença de doenças cardíacas com base em dados clínicos de pacientes.
 
@@ -64,3 +64,14 @@ Modelos escalonados e não escalonados foram comparados para entender seus desem
    ```bash
    git clone https://github.com/seu-usuario/heart-disease-classifier.git
    cd heart-disease-classifier
+   ```
+
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Execute o notebook (caso ainda não tenha, execute: pip install notebook):
+   ```bash
+   jupyter notebook
+
