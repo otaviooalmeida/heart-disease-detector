@@ -18,11 +18,11 @@ Criar modelos robustos que possam prever se um paciente tem ou não uma doença 
 
 ## 🧪 Modelos Treinados
 
-- 🌲 Random Forest (com e sem tuning)
-- ⚡ XGBoost
-- 🤝 K-Nearest Neighbors (KNN)
-- 🧭 Support Vector Machine (SVC)
-- 📉 Logistic Regression
+-  Random Forest (com e sem tuning)
+-  XGBoost
+-  K-Nearest Neighbors (KNN)
+-  Support Vector Machine (SVC)
+-  Logistic Regression
 
 Modelos escalonados e não escalonados foram comparados para entender seus desempenhos.
 
