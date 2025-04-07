@@ -6,7 +6,7 @@ Este projeto utiliza algoritmos de Machine Learning para prever a presença de d
 
 ## 📁 Dataset
 
-O dataset utilizado é o [Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction), contendo variáveis como idade, pressão arterial, níveis de colesterol, entre outras.
+O dataset utilizado é o [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), contendo variáveis como idade, pressão arterial, níveis de colesterol, entre outras.
 
 ---
 
