@@ -24,7 +24,6 @@ Criar modelos que possam prever se um paciente tem ou não uma doença cardíaca
 -  Support Vector Machine (SVC)
 -  Logistic Regression
 
-Modelos escalonados e não escalonados foram comparados para entender seus desempenhos.
 
 ---
 
@@ -32,7 +31,7 @@ Modelos escalonados e não escalonados foram comparados para entender seus desem
 
 -  Exclusão da feature `fbs`, após análise de correlação com a variável alvo.
 -  Escalonamento aplicado com `StandardScaler` (para modelos sensíveis à escala).
--  Divisão dos dados: `train_test_split` com 40% para teste e `random_state=42`.
+-  Divisão dos dados: `train_test_split` com 40% para teste (em virtude do tamanho do dataset).
 
 ---
 
@@ -53,8 +52,6 @@ Modelos escalonados e não escalonados foram comparados para entender seus desem
 -  **Train score:** `1.0`
 -  **ROC AUC Score:** `1.0`
 -  **Cross Validation Score médio:** `1.0`
-
-📌 Foram verificadas diferenças entre treino e teste para evitar overfitting.
 
 ---
 
