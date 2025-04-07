@@ -62,7 +62,7 @@ Modelos escalonados e não escalonados foram comparados para entender seus desem
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/heart-disease-classifier.git
+   git clone https://github.com/otaviooalmeida/heart-disease-classifier.git
    cd heart-disease-classifier
    ```
 
